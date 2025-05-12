@@ -28,7 +28,6 @@ stream = p.open(format=FORMAT,
                 input=True,
                 frames_per_buffer=CHUNK)
 
-print("Czuwam...")
 
 last_detection_time = 0
 
